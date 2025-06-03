@@ -1,0 +1,32 @@
+{
+  "development": {
+    "user": "root",
+    "password": "password",
+    "database": "the_6th",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432,
+    "issuer": "This was issues by we the people",
+    "admin_issuer": "The author decided this is the way"
+  },
+  "test": {
+    "user": "root",
+    "password": "password",
+    "database": "the_6th",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432,
+    "issuer": "This was issues by we the people",
+    "admin_issuer": "The author decided this is the way"
+  },
+  "production": {
+    "user": "root",
+    "password": "password",
+    "database": "the_6th",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432,
+    "issuer": "This was issues by we the people",
+    "admin_issuer": "The author decided this is the way"
+  }
+}

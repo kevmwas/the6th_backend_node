@@ -69,6 +69,9 @@ web_modules/
 # Output of 'npm pack'
 *.tgz
 
+# jetbrains
+.idea/
+
 # Yarn Integrity file
 .yarn-integrity
 
@@ -134,3 +137,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/keys
+package-lock.json
+
+.env
